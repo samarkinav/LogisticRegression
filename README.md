@@ -1,1 +1,1 @@
-# Test-tasks
+# Logistic regression test task
